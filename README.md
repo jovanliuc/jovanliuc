@@ -1,5 +1,6 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jovanliuc.visitor-badge&left_text=visitors)
+![linkedin badge](https://img.shields.io/badge/Linkedin-Linkedin-blue)
 
 ### Hi there 👏👏👏
 
