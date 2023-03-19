@@ -9,3 +9,7 @@ I'm a passionate **software developer** living in Xi'an 🌇 China 🇨🇳 and 
 ---
 
 ![Jovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jovanliuc&theme=radical&show_icons=true)
+
+---
+
+[![Jovan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovanliuc&layout=compact)
