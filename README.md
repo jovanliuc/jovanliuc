@@ -1,12 +1,13 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jovanliuc.visitor-badge&left_text=visitors)
-![linkedin badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
 ### Hi there 👏👏👏
 
 This is Jovan 👨‍👩‍👧 nice to meet you guys
 
 I'm a passionate **software developer** living in Xi'an 🌇 China 🇨🇳 and would like ❤️‍🔥 to explore and learn new stuff...
+
+![linkedin badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white?link=https://www.linkedin.com/in/jovanliuc/)
 
 ---
 
