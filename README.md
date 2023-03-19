@@ -11,6 +11,10 @@ I'm a passionate **software developer** living in Xi'an 🌇 China 🇨🇳 and 
 [![Wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://www.wechat.com/)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](mailto:327527689@qq.com)
 
+![Mac OS X](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 [![Stack Overflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/5803701/jovan-liu)
 
 ---
