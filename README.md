@@ -3,7 +3,7 @@
 
 ### Hi there 👏👏👏
 
-This is Jovan 👨‍👩‍👧 nice to meet you guys
+This is Jovan 👨‍👩‍👧 🍀🍀🍀 nice to meet you guys 🧨 🎉 🎊 🚀 🌏 🌍 🌎
 
 I'm a passionate **software developer** living in Xi'an 🌇 China 🇨🇳 and would like ❤️‍🔥 to explore and learn new stuff...
 
