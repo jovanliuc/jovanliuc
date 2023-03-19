@@ -9,6 +9,8 @@ I'm a passionate **software developer** living in Xi'an 🌇 China 🇨🇳 and 
 
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jovanliuc/)
 
+[![Stack Overflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/5803701/jovan-liu)
+
 ---
 
 ![Jovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jovanliuc&theme=radical&show_icons=true)
