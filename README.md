@@ -1,8 +1,6 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jovanliuc.visitor-badge&left_text=visitors)
 
----
-
 ### Hi there 👏👏👏
 
 This is Jovan 👨‍👩‍👧 nice to meet you guys
