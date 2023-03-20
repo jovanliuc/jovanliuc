@@ -8,8 +8,9 @@ This is Jovan 👨‍👩‍👧 🍀🍀🍀 nice to meet you guys 🧨 🎉 �
 I'm a passionate **software developer** living in Xi'an 🌇 China 🇨🇳 and would like ❤️‍🔥 to explore and learn new stuff...
 
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jovanliuc/)
-[![Wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://www.wechat.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovanliuc0104@gmail.com)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](mailto:327527689@qq.com)
+[![Wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://www.wechat.com/)
 
 ![Mac OS X](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
