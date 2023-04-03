@@ -49,4 +49,4 @@ I'm a passionate **software developer** living in Xi'an 🌇 China 🇨🇳 and 
 
 ![Jovan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovanliuc&layout=tokyonight)
 
-[![jovan-families-docs](https://github-readme-stats.vercel.app/api/pin/?username=jovanliuc&repo=jovan-families-docs)](https://github.com/jovanliuc/jovan-families-docs)
+[![java-families-docs](https://github-readme-stats.vercel.app/api/pin/?username=jovanliuc&repo=java-families-docs)](https://github.com/jovanliuc/java-families-docs)
